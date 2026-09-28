@@ -4,7 +4,7 @@
 Naga City, Philippines • balonjoel22@gmail.com • https://www.linkedin.com/in/joel-balon-25188837a 
 
 ## About Me
-BSIT undergraduate at the University of Nueva Caceres building a foundation in network engineering and web development. Passionate about configuring network environments, building responsive web applications, and securing system infrastructure.
+BSIT undergraduate at the University of Nueva Caceres building a foundstion in network engineering and web development. Passionate about configuring network environments, building responsive web applications, and securing system infrastructure.
 
 ## Certifications & Education
 * **BS in Information Technology (BSIT)** – University of Nueva Caceres
